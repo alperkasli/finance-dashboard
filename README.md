@@ -1,8 +1,10 @@
-To start on local: 
+To start on local:
+
 -npm install
+
 -npm start
 
 Live view:
-https://alperkasli.github.io/dashboard-app-for-interview
+https://alperkasli.github.io/finance-dashboard/
 
 This project created for interview.
