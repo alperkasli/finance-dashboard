@@ -1,4 +1,4 @@
-To start on local: 
+To start on local:
 -npm install
 -npm start
 
