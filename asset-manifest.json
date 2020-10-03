@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/dashboard-app-for-interview/static/css/main.89d41fad.chunk.css",
+    "main.js": "/dashboard-app-for-interview/static/js/main.a3167a1f.chunk.js",
+    "main.js.map": "/dashboard-app-for-interview/static/js/main.a3167a1f.chunk.js.map",
+    "runtime-main.js": "/dashboard-app-for-interview/static/js/runtime-main.f975a53d.js",
+    "runtime-main.js.map": "/dashboard-app-for-interview/static/js/runtime-main.f975a53d.js.map",
+    "xlsx.js": "/dashboard-app-for-interview/static/js/xlsx.f654fec9.chunk.js",
+    "xlsx.js.map": "/dashboard-app-for-interview/static/js/xlsx.f654fec9.chunk.js.map",
+    "static/js/3.d5669d83.chunk.js": "/dashboard-app-for-interview/static/js/3.d5669d83.chunk.js",
+    "static/js/3.d5669d83.chunk.js.map": "/dashboard-app-for-interview/static/js/3.d5669d83.chunk.js.map",
+    "static/js/4.866be527.chunk.js": "/dashboard-app-for-interview/static/js/4.866be527.chunk.js",
+    "static/js/4.866be527.chunk.js.map": "/dashboard-app-for-interview/static/js/4.866be527.chunk.js.map",
+    "static/js/5.78134deb.chunk.js": "/dashboard-app-for-interview/static/js/5.78134deb.chunk.js",
+    "static/js/5.78134deb.chunk.js.map": "/dashboard-app-for-interview/static/js/5.78134deb.chunk.js.map",
+    "static/js/6.d789f79d.chunk.js": "/dashboard-app-for-interview/static/js/6.d789f79d.chunk.js",
+    "static/js/6.d789f79d.chunk.js.map": "/dashboard-app-for-interview/static/js/6.d789f79d.chunk.js.map",
+    "index.html": "/dashboard-app-for-interview/index.html",
+    "precache-manifest.6847273c0b1213f38865f730409fddd5.js": "/dashboard-app-for-interview/precache-manifest.6847273c0b1213f38865f730409fddd5.js",
+    "service-worker.js": "/dashboard-app-for-interview/service-worker.js",
+    "static/css/main.89d41fad.chunk.css.map": "/dashboard-app-for-interview/static/css/main.89d41fad.chunk.css.map",
+    "static/js/3.d5669d83.chunk.js.LICENSE.txt": "/dashboard-app-for-interview/static/js/3.d5669d83.chunk.js.LICENSE.txt",
+    "static/js/5.78134deb.chunk.js.LICENSE.txt": "/dashboard-app-for-interview/static/js/5.78134deb.chunk.js.LICENSE.txt",
+    "static/js/6.d789f79d.chunk.js.LICENSE.txt": "/dashboard-app-for-interview/static/js/6.d789f79d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f975a53d.js",
+    "static/js/3.d5669d83.chunk.js",
+    "static/css/main.89d41fad.chunk.css",
+    "static/js/main.a3167a1f.chunk.js"
+  ]
+}
