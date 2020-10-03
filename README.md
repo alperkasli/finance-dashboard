@@ -5,6 +5,6 @@ To start on local:
 -npm start
 
 Live view:
-https://alperkasli.github.io/dashboard-app-for-interview
+https://alperkasli.github.io/finance-dashboard/
 
 This project created for interview.
